@@ -1,4 +1,4 @@
-👋 Hi there! I'm a versatile backend developer with a passion for building robust and scalable solutions. 
+👋 Hi there! I'm a versatile backend software engineer with a passion for building robust and scalable solutions. 
 
 **My Skills:**
 
